@@ -1,6 +1,6 @@
-<mxfile modified="2023-10-12T06:40:30.577Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="LgBrRhbonGOwiJ5602P-" version="22.0.4" type="github">
+<mxfile modified="2023-10-12T08:19:22.624Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="iEmaZlpkYHYg-lro8Y6N" version="22.0.4" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
-    <mxGraphModel dx="1628" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1526" dy="1637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,10 +103,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="upSLq7r1C17GMmXVNGqP-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="upSLq7r1C17GMmXVNGqP-152" source="upSLq7r1C17GMmXVNGqP-106" target="v-qFhbS9O7U46pDk4-8g-22" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="250" />
+              <mxPoint x="535" y="250" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="upSLq7r1C17GMmXVNGqP-106" value="Intune" style="swimlane;rounded=1;swimlaneLine=1;" parent="upSLq7r1C17GMmXVNGqP-152" vertex="1">
-          <mxGeometry x="290" y="300" width="200" height="200" as="geometry" />
+          <mxGeometry x="290" y="274" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="upSLq7r1C17GMmXVNGqP-102" value="Intune security&lt;br&gt;Baselines" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/intune/Security_Baselines.svg;" parent="upSLq7r1C17GMmXVNGqP-106" vertex="1">
           <mxGeometry x="17.710000000000008" y="30" width="44.58" height="44.58" as="geometry" />
@@ -126,22 +131,22 @@
         <mxCell id="upSLq7r1C17GMmXVNGqP-100" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="upSLq7r1C17GMmXVNGqP-152" source="v-qFhbS9O7U46pDk4-8g-24" target="v-qFhbS9O7U46pDk4-8g-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z7Kau3yWmD6xVELEcZ-e-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="upSLq7r1C17GMmXVNGqP-152" source="v-qFhbS9O7U46pDk4-8g-34" target="v-qFhbS9O7U46pDk4-8g-22">
+        <mxCell id="Z7Kau3yWmD6xVELEcZ-e-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="upSLq7r1C17GMmXVNGqP-152" source="v-qFhbS9O7U46pDk4-8g-34" target="v-qFhbS9O7U46pDk4-8g-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="542" y="420" as="targetPoint" />
+            <mxPoint x="541.22" y="536" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v-qFhbS9O7U46pDk4-8g-34" value="Global Admin" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/intune/Azure_AD_Roles_and_Administrators.svg;" parent="upSLq7r1C17GMmXVNGqP-152" vertex="1">
-          <mxGeometry x="510" y="500" width="64" height="64" as="geometry" />
+          <mxGeometry x="417.22" y="514" width="44" height="44" as="geometry" />
         </mxCell>
         <mxCell id="v-qFhbS9O7U46pDk4-8g-23" value="PIM" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/PIM.svg;" parent="upSLq7r1C17GMmXVNGqP-152" vertex="1">
-          <mxGeometry x="610" y="498" width="60" height="68" as="geometry" />
+          <mxGeometry x="363.7" y="511" width="40.59" height="46" as="geometry" />
         </mxCell>
         <mxCell id="upSLq7r1C17GMmXVNGqP-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="upSLq7r1C17GMmXVNGqP-152" source="v-qFhbS9O7U46pDk4-8g-23" target="v-qFhbS9O7U46pDk4-8g-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v-qFhbS9O7U46pDk4-8g-45" value="USER" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Users.svg;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="upSLq7r1C17GMmXVNGqP-152" vertex="1">
-          <mxGeometry x="701.4300000000001" y="512" width="36.57" height="40" as="geometry" />
+          <mxGeometry x="300.00000000000006" y="514" width="36.57" height="40" as="geometry" />
         </mxCell>
         <mxCell id="upSLq7r1C17GMmXVNGqP-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="upSLq7r1C17GMmXVNGqP-152" source="v-qFhbS9O7U46pDk4-8g-45" target="v-qFhbS9O7U46pDk4-8g-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -151,9 +156,8 @@
             <mxPoint x="596.5699999999999" y="203" as="targetPoint" />
             <mxPoint x="570" y="300" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="730" y="280" />
-              <mxPoint x="730" y="230" />
-              <mxPoint x="605" y="230" />
+              <mxPoint x="820" y="190" />
+              <mxPoint x="605" y="190" />
               <mxPoint x="605" y="132" />
             </Array>
           </mxGeometry>
@@ -214,6 +218,21 @@
             <mxPoint x="1630" y="610" as="sourcePoint" />
             <mxPoint x="1630" y="20" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Z7Kau3yWmD6xVELEcZ-e-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="upSLq7r1C17GMmXVNGqP-152" source="Z7Kau3yWmD6xVELEcZ-e-9" target="v-qFhbS9O7U46pDk4-8g-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7Kau3yWmD6xVELEcZ-e-9" value="M365 defender" style="swimlane;" vertex="1" parent="upSLq7r1C17GMmXVNGqP-152">
+          <mxGeometry x="510" y="274" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7Kau3yWmD6xVELEcZ-e-11" value="email" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.email;fillColor=#D9A741;gradientColor=none;labelBackgroundColor=default;" vertex="1" parent="Z7Kau3yWmD6xVELEcZ-e-9">
+          <mxGeometry x="128.97" y="40" width="50" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7Kau3yWmD6xVELEcZ-e-13" value="devices" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/intune/Devices.svg;" vertex="1" parent="Z7Kau3yWmD6xVELEcZ-e-9">
+          <mxGeometry x="128.97000000000003" y="125.99608174210721" width="55.56" height="49.03" as="geometry" />
+        </mxCell>
+        <mxCell id="Z7Kau3yWmD6xVELEcZ-e-14" value="cloud apps" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/App_Registrations.svg;" vertex="1" parent="Z7Kau3yWmD6xVELEcZ-e-9">
+          <mxGeometry x="38" y="40" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="upSLq7r1C17GMmXVNGqP-119" value="REGIO AU" style="swimlane;rounded=1;glass=0;fillColor=#769A6D;fontColor=#FFFFFF;startSize=23;fontSize=16;swimlaneFillColor=#BAF2AB;" parent="1" vertex="1">
           <mxGeometry x="330" y="590" width="650" height="1280" as="geometry" />
@@ -524,8 +543,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="440" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="590" y="570" />
-              <mxPoint x="490" y="570" />
+              <mxPoint x="490" y="520" />
+              <mxPoint x="490" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
