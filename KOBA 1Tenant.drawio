@@ -1,4 +1,4 @@
-<mxfile modified="2023-10-24T07:43:00.797Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="POcv8ixseKE0oefD3_Z8" version="22.0.6" type="github">
+<mxfile modified="2023-10-24T08:51:31.257Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="22FU5siJPxdKdRtUYfVK" version="22.0.6" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1221" dy="1817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,7 +149,7 @@
             <mxPoint x="1630" y="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z7Kau3yWmD6xVELEcZ-e-9" value="M365 defender (K-M-MD)" style="swimlane;" parent="upSLq7r1C17GMmXVNGqP-152" vertex="1">
+        <mxCell id="Z7Kau3yWmD6xVELEcZ-e-9" value="M365 defender (K-M-MD)" style="swimlane;rounded=1;" parent="upSLq7r1C17GMmXVNGqP-152" vertex="1">
           <mxGeometry x="510" y="274" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Z7Kau3yWmD6xVELEcZ-e-11" value="email&amp;nbsp;&lt;br&gt;(K-M-MD-02)" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.email;fillColor=#D9A741;gradientColor=none;labelBackgroundColor=default;" parent="Z7Kau3yWmD6xVELEcZ-e-9" vertex="1">
@@ -164,7 +164,7 @@
         <mxCell id="Z7Kau3yWmD6xVELEcZ-e-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="Z7Kau3yWmD6xVELEcZ-e-9" source="Z7Kau3yWmD6xVELEcZ-e-11" target="Z7Kau3yWmD6xVELEcZ-e-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z7Kau3yWmD6xVELEcZ-e-16" value="Security (K-M-SE)" style="swimlane;" parent="upSLq7r1C17GMmXVNGqP-152" vertex="1">
+        <mxCell id="Z7Kau3yWmD6xVELEcZ-e-16" value="Security (K-M-SE)" style="swimlane;rounded=1;" parent="upSLq7r1C17GMmXVNGqP-152" vertex="1">
           <mxGeometry x="290" y="274" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="v-qFhbS9O7U46pDk4-8g-24" value="CA (K-M-SE-02)" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Conditional_Access.svg;" parent="Z7Kau3yWmD6xVELEcZ-e-16" vertex="1">
@@ -235,7 +235,7 @@
         <mxCell id="Z7Kau3yWmD6xVELEcZ-e-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="upSLq7r1C17GMmXVNGqP-152" source="v-qFhbS9O7U46pDk4-8g-23" target="v-qFhbS9O7U46pDk4-8g-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kjl7e1KbPgNzMfdmGCoS-1" value="Entra ID (K-M-EI" style="swimlane;" parent="upSLq7r1C17GMmXVNGqP-152" vertex="1">
+        <mxCell id="kjl7e1KbPgNzMfdmGCoS-1" value="Entra ID (K-M-EI" style="swimlane;rounded=1;" parent="upSLq7r1C17GMmXVNGqP-152" vertex="1">
           <mxGeometry x="510" y="50" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="v-qFhbS9O7U46pDk4-8g-22" value="Entra ID (K-M-EI-01)" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;" parent="kjl7e1KbPgNzMfdmGCoS-1" vertex="1">
