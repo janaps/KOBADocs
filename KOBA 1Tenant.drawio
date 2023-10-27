@@ -1,4 +1,4 @@
-<mxfile modified="2023-10-24T08:51:31.257Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="22FU5siJPxdKdRtUYfVK" version="22.0.6" type="github">
+<mxfile modified="2023-10-27T09:18:57.942Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="FQ0ZihZVe9-BmIlb4JvO" version="22.0.8" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1221" dy="1817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -247,11 +247,20 @@
         <mxCell id="kjl7e1KbPgNzMfdmGCoS-3" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;K-M-EI-03&lt;/span&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.microsoft_teams;" parent="kjl7e1KbPgNzMfdmGCoS-1" vertex="1">
           <mxGeometry x="70" y="28" width="42" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="lv1qC2F4-dyZyjAXRRJe-6" value="Leerlingen-Basis" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Groups.svg;" vertex="1" parent="upSLq7r1C17GMmXVNGqP-152">
+          <mxGeometry x="550.0000000000001" y="513.9967984321056" width="36.136445329222695" height="29.760300868208933" as="geometry" />
+        </mxCell>
+        <mxCell id="lv1qC2F4-dyZyjAXRRJe-7" value="Leerlingen-Secundair" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Groups.svg;" vertex="1" parent="upSLq7r1C17GMmXVNGqP-152">
+          <mxGeometry x="660.0000000000001" y="513.9967984321056" width="36.136445329222695" height="29.760300868208933" as="geometry" />
+        </mxCell>
+        <mxCell id="lv1qC2F4-dyZyjAXRRJe-8" value="Personeel" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Groups.svg;" vertex="1" parent="upSLq7r1C17GMmXVNGqP-152">
+          <mxGeometry x="780.0000000000001" y="513.9967984321056" width="36.136445329222695" height="29.760300868208933" as="geometry" />
+        </mxCell>
         <mxCell id="upSLq7r1C17GMmXVNGqP-119" value="REGIO AU" style="swimlane;rounded=1;glass=0;fillColor=#769A6D;fontColor=#FFFFFF;startSize=23;fontSize=16;swimlaneFillColor=#BAF2AB;" parent="1" vertex="1">
           <mxGeometry x="290" y="-180" width="650" height="1280" as="geometry" />
         </mxCell>
         <mxCell id="upSLq7r1C17GMmXVNGqP-120" value="SCHOOL AU" style="swimlane;rounded=1;swimlaneFillColor=#F1FCEE;" parent="upSLq7r1C17GMmXVNGqP-119" vertex="1">
-          <mxGeometry x="24.27" y="210.38" width="601.46" height="779.62" as="geometry" />
+          <mxGeometry x="24.27" y="210.38" width="601.46" height="809.62" as="geometry" />
         </mxCell>
         <mxCell id="v-qFhbS9O7U46pDk4-8g-19" value="USER" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Users.svg;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="upSLq7r1C17GMmXVNGqP-120" vertex="1">
           <mxGeometry x="34.62000000000012" y="74.14734375187163" width="28.832734475850167" height="31.537035248400507" as="geometry" />
@@ -324,16 +333,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="upSLq7r1C17GMmXVNGqP-66" value="Scoped assignment" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.role_assignment_policy;" parent="upSLq7r1C17GMmXVNGqP-120" vertex="1">
-          <mxGeometry x="174.79999999999993" y="679.616081742107" width="35.66" height="41.62" as="geometry" />
+          <mxGeometry x="174.79999999999993" y="739.616081742107" width="35.66" height="41.62" as="geometry" />
         </mxCell>
         <mxCell id="upSLq7r1C17GMmXVNGqP-45" value="devices" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/intune/Devices.svg;" parent="upSLq7r1C17GMmXVNGqP-120" vertex="1">
-          <mxGeometry x="210.46000000000004" y="599.6160817421072" width="55.56" height="49.03" as="geometry" />
+          <mxGeometry x="279.08000000000004" y="539.6160817421072" width="55.56" height="49.03" as="geometry" />
         </mxCell>
-        <mxCell id="v-qFhbS9O7U46pDk4-8g-76" value="School-devices" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Groups.svg;" parent="upSLq7r1C17GMmXVNGqP-120" vertex="1">
-          <mxGeometry x="63.450435658914785" y="609.0221320778993" width="36.69153844503359" height="30.217449820904754" as="geometry" />
-        </mxCell>
-        <mxCell id="upSLq7r1C17GMmXVNGqP-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="upSLq7r1C17GMmXVNGqP-120" source="upSLq7r1C17GMmXVNGqP-45" target="v-qFhbS9O7U46pDk4-8g-76" edge="1">
+        <mxCell id="lv1qC2F4-dyZyjAXRRJe-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="upSLq7r1C17GMmXVNGqP-120" source="v-qFhbS9O7U46pDk4-8g-76" target="lv1qC2F4-dyZyjAXRRJe-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="v-qFhbS9O7U46pDk4-8g-76" value="Dynamische device&lt;br&gt;groepen" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Groups.svg;" parent="upSLq7r1C17GMmXVNGqP-120" vertex="1">
+          <mxGeometry x="35.89043565891478" y="599.6121320778993" width="36.69153844503359" height="30.217449820904754" as="geometry" />
         </mxCell>
         <mxCell id="upSLq7r1C17GMmXVNGqP-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.563;entryDx=0;entryDy=0;entryPerimeter=0;" parent="upSLq7r1C17GMmXVNGqP-120" source="upSLq7r1C17GMmXVNGqP-62" target="upSLq7r1C17GMmXVNGqP-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -357,6 +366,12 @@
           <mxGeometry x="0.0846" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lv1qC2F4-dyZyjAXRRJe-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="upSLq7r1C17GMmXVNGqP-120" source="lv1qC2F4-dyZyjAXRRJe-3" target="upSLq7r1C17GMmXVNGqP-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lv1qC2F4-dyZyjAXRRJe-3" value="&lt;ul&gt;&lt;li&gt;School-devices-personeel&lt;/li&gt;&lt;li&gt;School-devices-leerlingen&lt;/li&gt;&lt;li&gt;School-devices-powerusers&lt;/li&gt;&lt;li&gt;School-devices&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;align=left;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;direction=south;" vertex="1" parent="upSLq7r1C17GMmXVNGqP-120">
+          <mxGeometry x="91.48" y="554.62" width="164.27" height="141.74" as="geometry" />
         </mxCell>
         <mxCell id="upSLq7r1C17GMmXVNGqP-27" value="regio-coördinator" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Users.svg;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="upSLq7r1C17GMmXVNGqP-119" vertex="1">
           <mxGeometry x="149.18000000000006" y="65.67594042680795" width="32.04446043112829" height="35.049997737083174" as="geometry" />
