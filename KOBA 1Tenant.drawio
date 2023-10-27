@@ -1,4 +1,4 @@
-<mxfile modified="2023-10-27T09:18:57.942Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="FQ0ZihZVe9-BmIlb4JvO" version="22.0.8" type="github">
+<mxfile modified="2023-10-27T09:23:09.387Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="HI9hOqKlW-StOMACRZ4J" version="22.0.8" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1221" dy="1817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -247,14 +247,14 @@
         <mxCell id="kjl7e1KbPgNzMfdmGCoS-3" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;K-M-EI-03&lt;/span&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.microsoft_teams;" parent="kjl7e1KbPgNzMfdmGCoS-1" vertex="1">
           <mxGeometry x="70" y="28" width="42" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lv1qC2F4-dyZyjAXRRJe-6" value="Leerlingen-Basis" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Groups.svg;" vertex="1" parent="upSLq7r1C17GMmXVNGqP-152">
+        <mxCell id="lv1qC2F4-dyZyjAXRRJe-6" value="Tenant-Leerlingen-Basis" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Groups.svg;" vertex="1" parent="upSLq7r1C17GMmXVNGqP-152">
           <mxGeometry x="550.0000000000001" y="513.9967984321056" width="36.136445329222695" height="29.760300868208933" as="geometry" />
         </mxCell>
-        <mxCell id="lv1qC2F4-dyZyjAXRRJe-7" value="Leerlingen-Secundair" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Groups.svg;" vertex="1" parent="upSLq7r1C17GMmXVNGqP-152">
-          <mxGeometry x="660.0000000000001" y="513.9967984321056" width="36.136445329222695" height="29.760300868208933" as="geometry" />
+        <mxCell id="lv1qC2F4-dyZyjAXRRJe-7" value="Tenant-Leerlingen-Secundair" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Groups.svg;" vertex="1" parent="upSLq7r1C17GMmXVNGqP-152">
+          <mxGeometry x="710.0000000000001" y="513.9967984321056" width="36.136445329222695" height="29.760300868208933" as="geometry" />
         </mxCell>
-        <mxCell id="lv1qC2F4-dyZyjAXRRJe-8" value="Personeel" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Groups.svg;" vertex="1" parent="upSLq7r1C17GMmXVNGqP-152">
-          <mxGeometry x="780.0000000000001" y="513.9967984321056" width="36.136445329222695" height="29.760300868208933" as="geometry" />
+        <mxCell id="lv1qC2F4-dyZyjAXRRJe-8" value="Tenant-Personeel" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Groups.svg;" vertex="1" parent="upSLq7r1C17GMmXVNGqP-152">
+          <mxGeometry x="850.0000000000001" y="513.9967984321056" width="36.136445329222695" height="29.760300868208933" as="geometry" />
         </mxCell>
         <mxCell id="upSLq7r1C17GMmXVNGqP-119" value="REGIO AU" style="swimlane;rounded=1;glass=0;fillColor=#769A6D;fontColor=#FFFFFF;startSize=23;fontSize=16;swimlaneFillColor=#BAF2AB;" parent="1" vertex="1">
           <mxGeometry x="290" y="-180" width="650" height="1280" as="geometry" />
