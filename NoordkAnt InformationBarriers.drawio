@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" modified="2024-04-29T09:25:15.065Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="NXNqFF-mnOvKTfP6geRD" version="24.3.0" type="github">
+  <diagram name="Pagina-1" id="d0BorDgT69ogsbsSQJ4K">
+    <mxGraphModel dx="1647" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ulRnp09Q39gZZT8fI7GO-1" value="School A&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="100" y="250" width="100" height="285" as="geometry" />
+        </mxCell>
+        <mxCell id="ulRnp09Q39gZZT8fI7GO-60" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="230" y="250" width="50" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ulRnp09Q39gZZT8fI7GO-2" value="Personeel" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/thumbnails/006/877/567/small/work-character-solid-icon-illustration-office-workers-teachers-judges-police-artists-employees-free-vector.jpg;" parent="ulRnp09Q39gZZT8fI7GO-60" vertex="1">
+          <mxGeometry y="90" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ulRnp09Q39gZZT8fI7GO-5" value="leerlingen" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/previews/020/274/235/non_2x/student-icon-for-your-website-design-logo-app-ui-free-vector.jpg;" parent="ulRnp09Q39gZZT8fI7GO-60" vertex="1">
+          <mxGeometry y="180" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ulRnp09Q39gZZT8fI7GO-6" value="beleid" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/previews/024/478/644/original/meeting-table-icon-vector.jpg;" parent="ulRnp09Q39gZZT8fI7GO-60" vertex="1">
+          <mxGeometry width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ulRnp09Q39gZZT8fI7GO-67" value="School B" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="210" y="250" width="100" height="285" as="geometry" />
+        </mxCell>
+        <mxCell id="ulRnp09Q39gZZT8fI7GO-68" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="125" y="270" width="50" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ulRnp09Q39gZZT8fI7GO-69" value="Personeel" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/thumbnails/006/877/567/small/work-character-solid-icon-illustration-office-workers-teachers-judges-police-artists-employees-free-vector.jpg;" parent="ulRnp09Q39gZZT8fI7GO-68" vertex="1">
+          <mxGeometry y="90" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ulRnp09Q39gZZT8fI7GO-70" value="leerlingen" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/previews/020/274/235/non_2x/student-icon-for-your-website-design-logo-app-ui-free-vector.jpg;" parent="ulRnp09Q39gZZT8fI7GO-68" vertex="1">
+          <mxGeometry y="180" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ulRnp09Q39gZZT8fI7GO-71" value="beleid" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/previews/024/478/644/original/meeting-table-icon-vector.jpg;" parent="ulRnp09Q39gZZT8fI7GO-68" vertex="1">
+          <mxGeometry width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ulRnp09Q39gZZT8fI7GO-73" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="235" y="270" width="50" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ulRnp09Q39gZZT8fI7GO-74" value="Personeel" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/thumbnails/006/877/567/small/work-character-solid-icon-illustration-office-workers-teachers-judges-police-artists-employees-free-vector.jpg;" parent="ulRnp09Q39gZZT8fI7GO-73" vertex="1">
+          <mxGeometry y="90" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ulRnp09Q39gZZT8fI7GO-75" value="leerlingen" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/previews/020/274/235/non_2x/student-icon-for-your-website-design-logo-app-ui-free-vector.jpg;" parent="ulRnp09Q39gZZT8fI7GO-73" vertex="1">
+          <mxGeometry y="180" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ulRnp09Q39gZZT8fI7GO-76" value="beleid" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/previews/024/478/644/original/meeting-table-icon-vector.jpg;" parent="ulRnp09Q39gZZT8fI7GO-73" vertex="1">
+          <mxGeometry width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ulRnp09Q39gZZT8fI7GO-77" value="School C" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="320" y="250" width="100" height="285" as="geometry" />
+        </mxCell>
+        <mxCell id="ulRnp09Q39gZZT8fI7GO-78" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="345" y="270" width="50" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ulRnp09Q39gZZT8fI7GO-79" value="Personeel" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/thumbnails/006/877/567/small/work-character-solid-icon-illustration-office-workers-teachers-judges-police-artists-employees-free-vector.jpg;" parent="ulRnp09Q39gZZT8fI7GO-78" vertex="1">
+          <mxGeometry y="90" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ulRnp09Q39gZZT8fI7GO-80" value="leerlingen" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/previews/020/274/235/non_2x/student-icon-for-your-website-design-logo-app-ui-free-vector.jpg;" parent="ulRnp09Q39gZZT8fI7GO-78" vertex="1">
+          <mxGeometry y="180" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ulRnp09Q39gZZT8fI7GO-81" value="beleid" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/previews/024/478/644/original/meeting-table-icon-vector.jpg;" parent="ulRnp09Q39gZZT8fI7GO-78" vertex="1">
+          <mxGeometry width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ulRnp09Q39gZZT8fI7GO-16" value="Segment regio" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;strokeColor=#82b366;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="80" y="130" width="360" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ulRnp09Q39gZZT8fI7GO-82" value="Regio-team" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/previews/000/649/142/original/team-icon-symbol-sign-vector.jpg;" parent="1" vertex="1">
+          <mxGeometry x="235" y="160" width="50" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
